@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "YouTubeLite", "YouTubeLite\YouTubeLite.ssmssqlproj", "{FC98680D-AC7E-459B-9BA0-BBD6452F5CC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC98680D-AC7E-459B-9BA0-BBD6452F5CC8}.Default|Default.ActiveCfg = Default
+		{88EC5FE8-266A-40A4-B7D9-F19735AC4A98}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DC01C13-6FE4-4F41-9C23-D8F2652D5DBE}
+	EndGlobalSection
+EndGlobal
